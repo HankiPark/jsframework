@@ -7,6 +7,6 @@
 <title>hello</title>
 </head>
 <body>
-Hello ~~ eclipse 수정
+Hello ~~ eclipse 수정 cmd에서 수정
 </body>
 </html>
